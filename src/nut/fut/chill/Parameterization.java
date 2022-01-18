@@ -45,7 +45,9 @@ public class Parameterization {
 		System.out.println("Hello world");
 		int a= 30 + 45;
 		float b = 56* 34;
+		char ch = 'g';
 		System.out.println(a);
 		System.out.println(b);
+		System.out.println(ch);
 	}
 }
