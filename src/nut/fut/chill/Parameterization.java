@@ -27,6 +27,12 @@ public class Parameterization {
 	               System.out.println("Incorrect browser value passed.");
 	        }
 	}
+	
+	@Test
+	public void fridge()
+	{
+		System.out.println("Fridge");
+	}
 	@Test
 	public void divisionByZero()
 	{
