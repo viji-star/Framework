@@ -37,5 +37,9 @@ public class Parameterization {
 	public void boy()
 	{
 		System.out.println("Hello world");
+		int a= 30 + 45;
+		float b = 56* 34;
+		System.out.println(a);
+		System.out.println(b);
 	}
 }
